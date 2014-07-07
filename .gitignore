@@ -1,0 +1,4 @@
+modules/**
+puppetMultiVm.sublime-project
+puppetMultiVm.sublime-workspace
+.vagrant
